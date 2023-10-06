@@ -10,6 +10,6 @@ public class RightDigitWrongPlace:IHint
     }
     public bool IsMatch(string candidate)
     {
-        return candidate.Zip(_hint, (c, h) => c != h && _hint.Contains(c) ? 1 : 0).Sum() == 0;
+        return candidate.Zip(_hint, (c, h) => c != h && _hint.Contains(c) ? 1 : 0).Sum() == 1;
     }
 }
