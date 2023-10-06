@@ -11,6 +11,6 @@ public class NoMatchHint:IHint
     
     public bool IsMatch(string candidate)
     {
-        return candidate.Any(c => _hint.Contains(c));
+        return !candidate.Any(c => _hint.Contains(c));
     }
 }
