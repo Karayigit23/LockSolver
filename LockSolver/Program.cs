@@ -3,6 +3,13 @@
 using LockSolver;
 using LockSolver.Hints;
 
+LockSolverClass lockSolver = new(GetHints_1(), 3);
+
+var key = lockSolver.Solve();
+Console.WriteLine("Key:{0}",key);
+
+
+
 List<IHint> GetHints_1()
 {
     return new List<IHint>()
