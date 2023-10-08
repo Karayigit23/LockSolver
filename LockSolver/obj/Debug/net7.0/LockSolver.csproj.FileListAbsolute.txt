@@ -1,0 +1,15 @@
+/Users/yigit/RiderProjects/LockSolver/LockSolver/bin/Debug/net7.0/LockSolver
+/Users/yigit/RiderProjects/LockSolver/LockSolver/bin/Debug/net7.0/LockSolver.deps.json
+/Users/yigit/RiderProjects/LockSolver/LockSolver/bin/Debug/net7.0/LockSolver.runtimeconfig.json
+/Users/yigit/RiderProjects/LockSolver/LockSolver/bin/Debug/net7.0/LockSolver.dll
+/Users/yigit/RiderProjects/LockSolver/LockSolver/bin/Debug/net7.0/LockSolver.pdb
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.csproj.AssemblyReference.cache
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.AssemblyInfoInputs.cache
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.AssemblyInfo.cs
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.csproj.CoreCompileInputs.cache
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.dll
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/refint/LockSolver.dll
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.pdb
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/LockSolver.genruntimeconfig.cache
+/Users/yigit/RiderProjects/LockSolver/LockSolver/obj/Debug/net7.0/ref/LockSolver.dll
