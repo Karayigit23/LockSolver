@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockSolver", "LockSolver\LockSolver.csproj", "{1B4C0242-7F82-4C2A-A4E0-67A42171D13C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockSolver.UnitTest", "LockSolver.UnitTest\LockSolver.UnitTest.csproj", "{3A38F655-A5BD-4079-8AF5-B1CFD810841C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1B4C0242-7F82-4C2A-A4E0-67A42171D13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B4C0242-7F82-4C2A-A4E0-67A42171D13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B4C0242-7F82-4C2A-A4E0-67A42171D13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A38F655-A5BD-4079-8AF5-B1CFD810841C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A38F655-A5BD-4079-8AF5-B1CFD810841C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A38F655-A5BD-4079-8AF5-B1CFD810841C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A38F655-A5BD-4079-8AF5-B1CFD810841C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
